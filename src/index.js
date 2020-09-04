@@ -4,10 +4,20 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import Counter from './components/counter';
+import CounterBlue from './components/counterBlue';
+
+
+import 'bootstrap/dist/css/bootstrap.css';
+
+// const element = <h1> Hello, Edibo! </h1>;
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  // <React.StrictMode>
+  //   <App />
+  // </React.StrictMode>,
+  // element,
+  <><Counter /> <CounterBlue /></>,
   document.getElementById('root')
 );
 
@@ -15,3 +25,4 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
