@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## How to get started from scratch
 
 - Start with node version manager- install nvm
@@ -8,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Use node eXecutor with create-react-app creating React project folder "my-react-app"
 - proceed to newly created directory
 - install bootstrap using npm
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
