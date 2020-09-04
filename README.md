@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to get started from scratch
+
+- Start with node version manager- install nvm
+- Install node (nvm i 12) and npm
+- Install node modules necessary to "create-react-app"
+- Use node eXecutor with create-react-app creating React project folder "my-react-app"
+- proceed to newly created directory
+- install bootstrap using npm
+
 ## Available Scripts
 
 In the project directory, you can run:
